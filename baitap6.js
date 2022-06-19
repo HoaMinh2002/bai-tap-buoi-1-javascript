@@ -1,3 +1,4 @@
+//Bai 6
 const nameOfStudent = 'Bùi Minh Hòa';
 const diem = 60;
 if (diem >= 90 && diem <= 100) {
